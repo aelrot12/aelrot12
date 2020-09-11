@@ -8,3 +8,5 @@ Interests: Artificial intelligence, Video game Development
 Email: <aelrot12@hanynag.ac.kr>
 
 Github: <https://github.com/aelrot12/>
+
+![Alt text](/big-hanyang.png)
