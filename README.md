@@ -9,4 +9,4 @@ Email: <aelrot12@hanynag.ac.kr>
 
 Github: <https://github.com/aelrot12/>
 
-![Alt text](/big-hanyang.png)
+<img src="/big-hanyang.png" width="40%" height="40%" title="TEST" alt="hanynag"></img>
